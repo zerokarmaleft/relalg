@@ -1,0 +1,6 @@
+1	apple
+1	aardvark
+2	baseball
+2	bowling
+9	cricket
+9	cookies
